@@ -10,6 +10,6 @@ print("I am fine")
 print("hello world")
 print("how are you")
 print("hello world")
-
+pritn("how are you")
 
 
